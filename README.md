@@ -33,8 +33,8 @@ This manual testing project focuses on the **DH-Clinic** website, a healthcare d
   - Priority
 ## 🧰 Tools Used
 - Microsoft Excel (Test Case Design and Bug Reporting)
-- Snipping Tool / Lightshot (Screenshots)
-- Google Sheets / Excel (Chart Visualization)
+- Snipping Tool  (Screenshots)
+- Microsoft Excel (Chart Visualization)
 ## 👤 Author
 **Anjali Radhakrishnan**  
 *Manual QA Tester*  
