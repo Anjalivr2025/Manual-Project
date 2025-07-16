@@ -36,5 +36,5 @@ This manual testing project focuses on the **DH-Clinic** website, a healthcare d
 - Snipping Tool  (Screenshots)
 - Microsoft Excel (Chart Visualization)
 ## 👤 Author
-**Anjali Radhakrishnan**  
+**Anjali V.R**  
 *Manual QA Tester*  
